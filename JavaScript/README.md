@@ -1,1 +1,1 @@
-- [ch01. JavaScript简介](./ch01.md)
+- [ch01. JavaScript简介](ch01)
