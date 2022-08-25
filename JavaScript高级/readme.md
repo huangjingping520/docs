@@ -3,3 +3,4 @@
 - [ch03. 闭包](JavaScript高级/ch03)
 - [ch04. this](JavaScript高级/ch04)
 - [ch05. 函数式编程](JavaScript高级/ch05)
+- [ch06. 面向对象](JavaScript高级/ch06)
